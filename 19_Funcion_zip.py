@@ -2,14 +2,14 @@
    Nicole Guerrero
    Noviembre 2024
 '''
- # Tres listas
- mi_lista = [1,2,3]
- tu_lista = (10,20,30)
- su_lista = (40.50.100) # tuplas (objetos constantes)
+# Tres listas 
+mi_lista = [1,2,3]
+tu_lista = (10,20,30)
+su_lista = (40,50,100) # tuplas (objetos constantes)
 
- # Funcion multiplicar por 2
- def multiplicar_por2(elemento):
-     return elemento*2
+# Funcion multiplicar por 2
+def multiplicar_por2(elemento):
+    return elemento*2
 
 '''
    Funcion filtra pares
