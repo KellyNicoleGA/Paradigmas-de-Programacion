@@ -1,12 +1,8 @@
-#================================
-#  Julián T. Sagredo
-#================================
-#  Paradigmas de Programación
-#  Matemática Algorítmica
-#  ESFM IPN  Diciembre 2023
-#================================
+'''
+   Nicole Guerrero
+   Enero 2025
+'''
 
-#======================================
 #  Uso de tuberías para comunicación
 #======================================
 from multiprocessing import Process, Pipe

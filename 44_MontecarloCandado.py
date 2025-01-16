@@ -1,9 +1,7 @@
-#==============================
-#  Julián T. Sagredo
-#==============================
-#  Paradigmas de Programación
-#  Matemática Algorítmica
-#  ESFM IPN Diciembre 2023
+'''
+   Nicole Guerrero
+   Enero 2025
+'''
 #==============================
 from multiprocessing import Process, Lock, Value
 import random

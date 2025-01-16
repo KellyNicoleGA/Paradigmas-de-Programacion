@@ -1,10 +1,8 @@
-#=================================
-#  Julián Sagredo
-#=================================
-#  Matemática Algorítmica
-#  Paradigmas de Programación
-#  ESFM IPN Diciembre 2024
-#=================================
+'''
+   Nicole Guerrero
+   Enero 2025
+'''
+
 import ray
 ray.init()
 

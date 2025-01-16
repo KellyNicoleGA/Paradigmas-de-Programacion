@@ -1,11 +1,7 @@
-#===============================
-#  Julián T. Sagredo
-#===============================
-#  Paradimgas de Programación
-#  Matemática Algorítmica
-#  ESFM  IPN  Diciembre 2023
-#===============================
-
+'''
+   Nicole Guerrero
+   Enero 2025
+'''
 #============================================================
 # Las colas (queues) son memorias compartidas entre procesos
 #============================================================
